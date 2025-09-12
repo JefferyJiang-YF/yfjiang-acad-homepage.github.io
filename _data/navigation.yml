@@ -4,13 +4,13 @@ main:
     url: "https://csyfjiang.github.io/academic/#about-me"
 
   - title: "News"
-    url: "https://csyfjiang.github.io/academic/#-news"
+    url: "https://csyfjiang.github.io/academic/#news"
 
   - title: "Publications"
     url: "https://csyfjiang.github.io/academic/#-publications"
 
   - title: "Academic Activities" 
-    url: "https://csyfjiang.github.io/academic/#-academic-activities"
+    url: "https://csyfjiang.github.io/academic/#academic-activities"
 
   - title: "Honors and Awards"
     url: "https://csyfjiang.github.io/academic/#-honors-and-awards"
