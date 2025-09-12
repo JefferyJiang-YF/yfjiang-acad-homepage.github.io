@@ -39,6 +39,7 @@
 - The Medical Multimodal Mixture of Experts (M4oE) framework, based on SwinUNet architecture, addresses the challenge of multimodal medical image segmentation by employing modality-specific experts and a dynamic gating network for enhanced scalability and interpretability. M4oE not only achieves superior performance across multiple datasets but also significantly reduces computational overhead, making it highly efficient for handling diverse medical imaging data. The full implementation and experiments are detailed on the project's GitHub repository, available at [M4oE GitHub](https://github.com/JefferyJiang-YF/M4oE).
 </div>
 </div>
+
 - ``PRCV 2025`` [U-MLLA: A Cognitive-Inspired Enhancement of Linear Attention for Medical Image Segmentation.](https://github.com), Jiang, Yufeng, Li, Zongxi, Chen, Xiang, Xie, Haoran, and Cai, Jing.
 - ``Under Review`` [REACT-KD: Region-Aware Cross-modal Topological Knowledge Distillation for Interpretable Medical Image Classification.](https://arxiv.org/abs/2508.02104), Chen, Hongzhao, Ding, Hexiao, **Jiang, Yufeng**, Lan, Jing, Li, Ka Chun, Cheng, Gerald W.Y., Ng, Sam, Ho, Chi Lai, Cai, Jing, Lin, Liang-ting, and Yoo, Jung Sun.
 - ``Under Review`` [M³AD: Multi-task Multi-gate Mixture of Experts for Alzheimer's Disease Diagnosis with Conversion Pattern Modeling.](https://arxiv.org/abs/2508.01819), **Jiang, Yufeng**, Ding, Hexiao, Chen, Hongzhao, Lan, Jing, Teng, Xinzhi, Cheng, Gerald W.Y., Li, Zongxi, Xie, Haoran, Yoo, Jung Sun, and Cai, Jing.
