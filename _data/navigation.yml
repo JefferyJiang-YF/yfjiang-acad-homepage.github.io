@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#about-me"
+    url: "https://csyfjiang.github.io/academic/#about-me"
 
   - title: "News"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-news"
+    url: "https://csyfjiang.github.io/academic/#-news"
 
   - title: "Publications"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-publications"
+    url: "https://csyfjiang.github.io/academic/#-publications"
+
+  - title: "Academic Activities" 
+    url: "https://csyfjiang.github.io/academic/#-academic-activities"
 
   - title: "Honors and Awards"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-honors-and-awards"
+    url: "https://csyfjiang.github.io/academic/#-honors-and-awards"
 
   - title: "Educations"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-invited-talks"
+    url: "https://csyfjiang.github.io/academic/#-educations"
 
   - title: "Internships"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-internships"
+    url: "https://csyfjiang.github.io/academic/#-internships"
